@@ -1,0 +1,23 @@
+void OutFigure(int nc,int xc, int yc, int f)
+        {
+			string[] cfn = new string[6]{"P","B","N","R","Q","K"};
+			string pt = Directory.GetCurrentDirectory(); // текущ папка
+			
+			string fn = pt+"\\";
+			if (f<7)
+            {
+				fn = fn + "w" + cfn[f - 1]; // имя файла для белой фигуры
+            }
+			if ((f>100)&&(f<107))
+            {
+				fn = fn + "b" + cfn[f - 101];// имя файла для черной фигуры
+            }
+			fn = fn + ".png";
+			if (File.Exists(fn))
+            {
+				im[nc] = Image.FromFile(fn);
+				g1.DrawImage(im[nc], xc, yc, CellsWidth, CellsWidth);
+
+            }
+
+        }

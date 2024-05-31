@@ -1,0 +1,10 @@
+C:\Users\idris\source\repos\sas\sas\bin\Debug\sas.exe.config
+C:\Users\idris\source\repos\sas\sas\bin\Debug\sas.exe
+C:\Users\idris\source\repos\sas\sas\bin\Debug\sas.pdb
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.csproj.AssemblyReference.cache
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.Form1.resources
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.Properties.Resources.resources
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.csproj.GenerateResource.cache
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.csproj.CoreCompileInputs.cache
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.exe
+C:\Users\idris\source\repos\sas\sas\obj\Debug\sas.pdb
